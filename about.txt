@@ -1,0 +1,1 @@
+So this project was about passing a funcs by props 
